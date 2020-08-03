@@ -1,0 +1,72 @@
+.container {
+    width: 80%;
+    height: 200px;
+    margin-top: 10%;
+    align-content: center;
+    padding: 10px;
+  }
+  
+  .one {
+    width: 15%;
+    height: 200px;
+    font-size:200%;
+    float: left;
+    text-align: center;
+    margin-left:25%;
+  }
+  
+  .two {
+    margin-left: 30%;
+    height: 200px;
+    font-size: 150%;
+    text-align:center;
+  }
+  #but
+  {
+    
+    width:100%;
+    justify-content: center;
+    display: block;
+    margin-left:41%;
+    
+  }
+  #logout1
+  {
+    text-align: center;
+    width:15%;
+    height:20%;
+    padding:10px;
+    font-family :"Trebuchet MS", Helvetica, sans-serif ;
+    font-size: 150%;
+    background-color: aliceblue;
+    color:gray;
+    border-radius: 5px;
+    margin-top:3px;
+
+  }
+  #logout1:hover
+  {
+    border:1px solid whitesmoke;
+    background-color: green;
+    color:white;
+  }
+  #logout2
+  {
+    text-align: center;
+    width:15%;
+    height:20%;
+    padding:10px;
+    font-family :"Trebuchet MS", Helvetica, sans-serif ;
+    font-size: 150%;
+    background-color: aliceblue;
+    color:gray;
+    border-radius: 5px;
+    margin-top:3px;
+
+  }
+  #logout2:hover
+  {
+    border:1px solid whitesmoke;
+    background-color: green;
+    color:white;
+  }
